@@ -20,13 +20,16 @@ The project covers fundamental and intermediate SQL concepts, making it a great 
 ```
 Online-Book-Store-SQL-Project/
 │
-├── schema.sql          # Database schema (CREATE TABLE statements)
-├── data.sql            # Import data into tables
-├── queries.sql         # Basic and advanced SQL queries
-├── Books.csv
-├── Customers.csv
-├── Orders.csv
 ├── README.md
+├── schema.sql
+├── data.sql
+├── queries.sql
+│
+├── datasets/
+│   ├── Books.csv
+│   ├── Customers.csv
+│   └── Orders.csv
+
 ```
 
 ---
